@@ -1,0 +1,200 @@
+7.080863
+G1ll35 d3 R415 Expert
+7.177385
+G1ll35 d3 R415 ExpertPlus
+1.7024384
+256*256 Easy
+3.5424879
+256*256 Normal
+5.3746195
+256*256 Hard
+8.583307
+256*256 Expert
+8.825188
+256*256 ExpertPlus
+2.9487364
+Ultrasonic Anthem Easy
+7.454384
+Ultrasonic Anthem Normal
+9.159162
+Ultrasonic Anthem Hard
+9.199426
+Ultrasonic Anthem Expert
+9.123299
+Ultrasonic Anthem ExpertPlus
+8.567022
+[BLEED BLOOD] ExpertPlus
+8.468095
+Dance with Silence ExpertPlus
+1.3057215
+ENERGY SYNERGY MATRIX Normal
+2.8581831
+ENERGY SYNERGY MATRIX Hard
+5.232403
+ENERGY SYNERGY MATRIX Expert
+7.6732345
+ENERGY SYNERGY MATRIX ExpertPlus
+3.6026819
+Splatter Party Expert
+6.8806148
+Splatter Party ExpertPlus
+1.1837097
+Dream of Winds Normal
+1.7918067
+Dream of Winds Hard
+2.5165
+Dream of Winds Expert
+5.5160303
+Dream of Winds ExpertPlus
+1.1068416
+PARALLEL*PRISM Easy
+1.5366213
+PARALLEL*PRISM Normal
+2.4729571
+PARALLEL*PRISM Hard
+3.2710786
+PARALLEL*PRISM Expert
+6.7681403
+PARALLEL*PRISM ExpertPlus
+5.725837
+I Can't Breathe ExpertPlus
+1.6422327
+Mischievous Princess Hard
+3.0402896
+Mischievous Princess Expert
+5.792988
+Mischievous Princess ExpertPlus
+1.5996273
+Planetes Hard
+2.993287
+Planetes Expert
+8.899698
+Hanavision Expert
+9.053381
+Hanavision ExpertPlus
+2.6301801
+OniiChan High Tech Normal
+4.723531
+OniiChan High Tech Hard
+7.4617805
+OniiChan High Tech Expert
+8.936947
+OniiChan High Tech ExpertPlus
+0.97720754
+Tonchiki ranchiki chindon kikou Easy
+1.276787
+Tonchiki ranchiki chindon kikou Normal
+2.3382156
+Tonchiki ranchiki chindon kikou Hard
+4.4515615
+Tonchiki ranchiki chindon kikou Expert
+8.400571
+Tonchiki ranchiki chindon kikou ExpertPlus
+1.1972272
+Liquid Answers Easy
+1.9802315
+Liquid Answers Normal
+4.5135303
+Liquid Answers Hard
+8.186149
+Liquid Answers Expert
+8.851924
+Liquid Answers ExpertPlus
+0.9419493
+Hitomi ni Kakusareta Omoi Easy
+1.1797591
+Hitomi ni Kakusareta Omoi Normal
+2.0053985
+Hitomi ni Kakusareta Omoi Hard
+4.0418396
+Hitomi ni Kakusareta Omoi Expert
+7.9640803
+Hitomi ni Kakusareta Omoi ExpertPlus
+3.9356935
+Icarian Beam ExpertPlus
+7.1902685
+Bonfire ExpertPlus
+9.556074
+You are eating my rotten dick Normal
+4.693415
+You are eating my rotten dick Hard
+8.689509
+You are eating my rotten dick Expert
+9.560667
+You are eating my rotten dick ExpertPlus
+0.949847
+Last Wind Easy
+1.2378457
+Last Wind Normal
+2.1253655
+Last Wind Hard
+3.8489466
+Last Wind Expert
+7.449024
+Last Wind ExpertPlus
+6.249763
+Kyogen NEUROSE ExpertPlus
+5.960094
+MTC Saga Expert
+7.51131
+MTC Saga ExpertPlus
+1.2876022
+Very Noise Normal
+2.6927063
+Very Noise Hard
+5.6077876
+Very Noise Expert
+8.091003
+Very Noise ExpertPlus
+2.6858602
+Miracle Sugar Land Expert
+5.2270427
+Miracle Sugar Land ExpertPlus
+1.2142637
+VVelcome!! Easy
+2.5019903
+VVelcome!! Normal
+6.084068
+VVelcome!! Hard
+9.496386
+VVelcome!! Expert
+9.402465
+VVelcome!! ExpertPlus
+3.2684875
+Unity Expert
+7.0755806
+Unity ExpertPlus
+3.0688949
+=El=Dorado= Hard
+5.0169377
+=El=Dorado= Expert
+8.191589
+=El=Dorado= ExpertPlus
+1.6238317
+Magus night fever Easy
+3.0560741
+Magus night fever Normal
+7.628801
+Magus night fever Hard
+8.915639
+Magus night fever Expert
+9.530373
+Magus night fever ExpertPlus
+8.411114
+See you Never ExpertPlus
+6.2418284
+Monolith ExpertPlus
+3.8759778
+Fresh! Hard
+6.3825307
+Fresh! Expert
+8.31442
+Fresh! ExpertPlus
+8.472826
+Come To Life ExpertPlus
+2.0583465
+THE LAUNCH OF THE MEGANTO METEOR Normal
+3.7866216
+THE LAUNCH OF THE MEGANTO METEOR Hard
+3.9824731
+THE LAUNCH OF THE MEGANTO METEOR Expert
